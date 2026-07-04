@@ -24,9 +24,6 @@ The website provides information about:
 - Docker
 - Jenkins
 - Kubernetes
-- Nagios
-- Graphite
-- Grafana
 
 ---
 
@@ -68,7 +65,7 @@ VIT-AP-TechFest
 
 ## DevOps Workflow
 
-Git → GitHub → Jenkins → Docker → Kubernetes → Nagios → Graphite → Grafana
+Git → GitHub → Jenkins → Docker → Kubernetes
 
 ---
 
